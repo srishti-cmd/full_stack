@@ -1,0 +1,20 @@
+body{
+    background-color: cadetblue;
+}
+.container{
+    background-color: aquamarine;
+    height: 300px;
+    width: 300px;
+    border: 1px solid burlywood;
+    margin: 50px;
+    padding-left: 80px;
+    padding-top: 80px;
+}
+.child{
+    background-color: rgb(252, 94, 94);
+    border: 2px solid palevioletred;
+    height: 100px;
+    width: 100px;
+    align-content: center;
+    padding-left: 20px;
+}
